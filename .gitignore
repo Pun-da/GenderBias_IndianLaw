@@ -1,0 +1,22 @@
+# Exclude .vscode directory
+.vscode/
+
+# Exclude __pycache__ directories and *.pyc files
+__pycache__/
+*.pyc
+
+# Exclude external directory
+external/
+
+# Exclude json_formatted_files directory
+json_formatted_files/
+
+
+# Exclude specific files in the paperImplementation directory
+paperImplementation/.git/
+paperImplementation/README.md
+paperImplementation/code/__pycache__/
+
+# Exclude specific files in the trainingData directory
+trainingData/__pycache__/
+trainingData/extract_from_json.cpython-311.pyc

@@ -1,0 +1,31 @@
+lawProject
+├─ analyseTrainedModel.py
+├─ case_hypotest_output.txt
+├─ case_hypothesis_input.txt
+├─ check.txt
+├─ clusterFlow.py
+├─ clusterFlow_output.txt
+├─ clusterSummary.txt
+├─ clusters_examples.txt
+├─ genderAssociation_cluster.txt
+├─ jsonExtractTest.py
+├─ json_formatted_files
+├─ paperImplementation
+│  ├─ code
+│  │  ├─ case_hypotest.py
+│  │  ├─ cluster_embeddings.py
+│  │  ├─ cluster_sizes.py
+│  │  ├─ gender_associations.py
+│  │  ├─ gender_associations_hypotest.py
+│  │  └─ hypotest_sort.py
+│  └─ data
+│     ├─ all-cases.txt
+│     └─ weat_lists
+├─ runner_case_hypotest.py
+└─ trainingData
+   ├─ check.txt
+   ├─ extract_from_json.py
+   ├─ extract_from_json_noStem.py
+   ├─ legalModel.bin
+   ├─ legalModel_noStem.bin
+   ├─ trainModel_w2v.py

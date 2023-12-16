@@ -1,0 +1,3 @@
+legMath    /home/siddy/Desktop/lawProject/paperImplementation/data/weat_lists/leg.txt  /home/siddy/Desktop/lawProject/paperImplementation/data/weat_lists/math.txt
+appearanceIntelligence    /home/siddy/Desktop/lawProject/paperImplementation/data/weat_lists/appearance.txt  /home/siddy/Desktop/lawProject/paperImplementation/data/weat_lists/intelligence.txt
+strongWeak    /home/siddy/Desktop/lawProject/paperImplementation/data/weat_lists/strong.txt  /home/siddy/Desktop/lawProject/paperImplementation/data/weat_lists/weak.txt
